@@ -10,3 +10,7 @@ h1 {
 .container {
   padding: 40px;
 }
+
+.email {
+  display: inline;
+}
